@@ -10,7 +10,7 @@ h1 {
 .navigation {
   background-image: url("../images/the-flatiron-building.png");
 }
-a {
+.navigation a {
   color: white;
   font-size: 18px;
 }
@@ -31,5 +31,15 @@ h3 {
 h4 {
   font-size: 23px;
   font-weight: bold;
+  color: white;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.footer a {
+  font-size: 11px;
   color: white;
 }
